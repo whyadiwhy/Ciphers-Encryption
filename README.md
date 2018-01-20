@@ -1,6 +1,5 @@
 # Ciphers
-CIPHERS
-This program encrypts plain text into cipher text using the following algorithms:
+This repository contains algorithms that encrypts plain text into cipher text using the following algorithms:
   1)Caesar Cipher
   2)Substitution cipher
   3)Vigener cipher
