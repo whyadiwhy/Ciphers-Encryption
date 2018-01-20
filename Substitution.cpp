@@ -1,4 +1,4 @@
-#include <bits/std++.h>
+#include <bits/stdc++.h>
 using namespace std;
 char* yourkey();
 char* randomkey();
