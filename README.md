@@ -11,5 +11,5 @@ User has the option to choose the type of algorithm for encryption.
 
 KEY
 
-The user is provided with the option to input they key or choose the random key.
+The user is provided with the option to input the key or choose the random key.
 The program will also return the key(if key chosen is random) along the cipher text for decryption.
