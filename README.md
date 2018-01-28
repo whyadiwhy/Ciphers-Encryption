@@ -3,9 +3,11 @@ This repository contains algorithms that encrypts plain text into cipher text us
 
   1)Caesar Cipher
 
-  2)Substitution cipher
+  2)Simple Substitution cipher
   
-  3)Vigener cipher
+  3)Modified Substitution cipher
+  
+  4)Vigener cipher
 
 User has the option to choose the type of algorithm for encryption.
 
